@@ -1,1 +1,1 @@
-start brave.exe "%cd%/resources/index.html"
+start brave.exe "%cd%/index.html"

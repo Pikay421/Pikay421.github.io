@@ -1,1 +1,1 @@
-CreateObject("Wscript.Shell").run "code resources", 0, True
+CreateObject("Wscript.Shell").run "code %cd%", 0, True
