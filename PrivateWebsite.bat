@@ -1,1 +1,0 @@
-start brave.exe "%cd%/index.html"

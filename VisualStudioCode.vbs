@@ -1,1 +1,0 @@
-CreateObject("Wscript.Shell").run "code %cd%", 0, True
